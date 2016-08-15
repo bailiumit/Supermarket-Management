@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="GUI.SecondClassSettings.Class0303Settings"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="413" d:DesignWidth="644">
+	<Grid>
+		<GroupBox Header="属性" FontSize="20" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="393" Width="624">
+			<ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+				<ScrollViewer.Content>
+					<StackPanel Margin="10">
+						<Label Content="商品名称" Height="35"/>
+						<TextBox Height="35" Name="ItemName_TextBox"/>
+						<Label Content="商品编码" Height="35"/>
+						<TextBox Height="35" Name="Code_TextBox"/>
+						<Label Content="商品状态" Height="35"/>
+						<ComboBox Height="35" x:Name="Condition_ComboBox" Loaded="Condition_ComboBox_Loaded"
+								  SelectedValue="{Binding Path=pCondition, Mode=TwoWay}"/>
+						<Label Content="进价" Height="35"/>
+						<TextBox Height="35" Name="BuyingPrice_TextBox"/>
+						<Label Content="售价" Height="35"/>
+						<TextBox Height="35" Name="SellingPrice_TextBox"/>
+                        <Label Content="备注（当商品被退货时，此处显示退货原因）" Height="35"/>
+						<TextBox Height="35" Name="Remark_TextBox"/>
+						<Label Content="保质期" Height="35"/>
+						<TextBox Height="35" Name="QualityPeriod_TextBox"/>
+					</StackPanel>
+				</ScrollViewer.Content>
+			</ScrollViewer>
+		</GroupBox>
+	</Grid>
+</UserControl>

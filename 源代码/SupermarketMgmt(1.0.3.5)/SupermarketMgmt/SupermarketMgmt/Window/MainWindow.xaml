@@ -1,0 +1,97 @@
+﻿<Window x:Name="Main" x:Class="GUI.Window.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Height="700" Width="1000" WindowStyle="None" 
+        ResizeMode="CanMinimize" HorizontalAlignment="Center" 
+        VerticalAlignment="Center" WindowStartupLocation="CenterScreen"
+        Background="#FFF3F3F3" Title="超市管理系统 - 主窗口">
+
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition Height="130"/>
+			<RowDefinition Height="570"/>
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="250"/>
+			<ColumnDefinition Width="750"/>
+		</Grid.ColumnDefinitions>
+
+		<Canvas Grid.Column="1" Grid.Row="0">
+			<Menu Name="Main_Menu" HorizontalContentAlignment="Stretch" 
+                  VerticalContentAlignment="Center" Height="50" Width="700" 
+                  Canvas.Left="25" Canvas.Top="40" Background="#00000000" Padding="0,0,0,0" Margin="0,0,0,0" 
+                  FontSize="30" FontFamily="Microsoft YaHei" VerticalAlignment="Center" 
+                  HorizontalAlignment="Center" Foreground="White">
+				<MenuItem Name="Operation_MenuItem" Header="　  操作" Background="#FFEA5534" 
+                          Height="50" Width="175" FontSize="30" BorderThickness="0">
+					<MenuItem Name="ItemManagement_MenuItem" Header="管理商品" FontSize="20" Background="#FFEA5534" 
+                              BorderThickness="0" Click="ItemManagement_MenuItem_Click"/>
+					<MenuItem Name="StuffManagement_MenuItem" Header="管理员工" FontSize="20" Background="#FFEA5534" 
+                              BorderThickness="0" Click="StuffManagement_MenuItem_Click"/>
+				</MenuItem>
+				<MenuItem Name="Query_MenuItem" Header="　  查询" Background="#FFFAC03D" 
+                          Width="175" FontSize="30" BorderThickness="0">
+                    <MenuItem Name="QueryBySingleItem_MenuItem" Header="单条商品信息查询" FontSize="20" Background="#FFFAC03D" 
+							  BorderThickness="0" Click="QueryBySingleItem_MenuItem_Click"/>
+                    <MenuItem Name="QueryByAmount_MenuItem" Header="商品数量查询" FontSize="20" Background="#FFFAC03D" 
+                              BorderThickness="0" Click="QueryByAmount_MenuItem_Click"/>
+					<MenuItem Name="QueryByImportTime_MenuItem" Header="商品入库时间查询" FontSize="20" Background="#FFFAC03D"
+                              BorderThickness="0" Click="QueryByImportTime_MenuItem_Click"/>
+					<MenuItem Name="QueryByStoreOrGroundingTime_MenuItem" Header="商品库存/上架时间查询" FontSize="20" Background="#FFFAC03D"
+                              BorderThickness="0" Click="QueryByStoreOrGroundingTime_MenuItem_Click"/>			
+				</MenuItem>
+				<MenuItem Name="Statistic_MenuItem" Header="　  统计" Background="#FF007BBB" Width="175" FontSize="30"
+                          BorderThickness="0">
+					<MenuItem Name="StatisticBySeason_MenuItem" Header="按季度统计" FontSize="20" Background="#FF007BBB"
+                              BorderThickness="0" Click="StatisticBySeason_MenuItem_Click"/>
+					<MenuItem Name="StatisticByItemClass_MenuItem" Header="按商品类别统计" FontSize="20" Background="#FF007BBB"
+                              BorderThickness="0" Click="StatisticByItemClass_MenuItem_Click"/>
+					<MenuItem Name="StatisticByItem_MenuItem" Header="按商品统计" FontSize="20" Background="#FF007BBB"
+                              BorderThickness="0" Click="StatisticByItem_MenuItem_Click"/>
+				</MenuItem>
+				<MenuItem Header="　  系统" Background="#FF7C7C7C" Width="175" FontSize="30"
+                          BorderThickness="0">
+					<MenuItem Name="About_MenuItem" Header="关于" FontSize="20" Background="#FF7C7C7C"
+                              BorderThickness="0" Click="About_MenuItem_Click"/>
+					<MenuItem Name="ModifyPassword_MenuItem" Header="修改密码" FontSize="20" Background="#FF7C7C7C"
+                              BorderThickness="0" Click="ModifyPassword_MenuItem_Click"/>
+					<MenuItem Name="Exit_MenuItem" Header="退出系统" FontSize="20" Background="#FF7C7C7C"
+                              BorderThickness="0" Click="Exit_MenuItem_Click"/>
+				</MenuItem>
+
+			</Menu>
+		</Canvas>
+
+		<ContentControl Name="MainPad" Grid.Column="1" Grid.Row="1"/>
+		<Canvas Grid.Column="0" Grid.Row="1">
+			<Label Content="当前登录用户" FontSize="20" Width="200" HorizontalContentAlignment="Center" Height="35"
+				   Canvas.Left="25" Canvas.Top="10" Background="#FFEA5534" Foreground="White" />
+			<Label Content="姓名" FontSize="15" Canvas.Left="10" Canvas.Top="45"/>
+			<TextBox Name="StuffName_TextBox" FontSize="15" Canvas.Left="55" Canvas.Top="50" Width="185" BorderThickness="0" IsEnabled="False" HorizontalContentAlignment="Center"/>
+			<Label Content="工号" FontSize="15" Canvas.Left="10" Canvas.Top="79"/>
+			<TextBox Name="StuffNumber_TextBox" FontSize="15" Canvas.Left="55" Canvas.Top="84" Width="185" BorderThickness="0" IsEnabled="False" HorizontalContentAlignment="Center"/>
+			<Label Content="职务" FontSize="15" Canvas.Left="10" Canvas.Top="113"/>
+			<TextBox Name="StuffPosition_TextBox" FontSize="15" Canvas.Left="55" Canvas.Top="118" Width="185" BorderThickness="0" IsEnabled="False" HorizontalContentAlignment="Center"/>
+			<GroupBox Header="权限" FontSize="15" Canvas.Left="10" Canvas.Top="147" Height="150" Width="230">
+				<StackPanel Margin="10">
+					<CheckBox Name="Right0" Content="管理商品" IsEnabled="False" Height="25" VerticalContentAlignment="Center"/>
+					<CheckBox Name="Right1" Content="管理员工" IsEnabled="False" Height="25" VerticalContentAlignment="Center"/>
+					<CheckBox Name="Right2" Content="使用查询功能" IsEnabled="False" Height="25" VerticalContentAlignment="Center"/>
+					<CheckBox Name="Right3" Content="使用统计功能" IsEnabled="False" Height="25" VerticalContentAlignment="Center"/>
+				</StackPanel>
+			</GroupBox>
+			<Label Content="当前位置" FontSize="20" Width="200" HorizontalContentAlignment="Center" Height="34"
+				Canvas.Left="25" Canvas.Top="302" Background="#FFFAC03D" Foreground="White"/>
+			<Canvas Height="100" Canvas.Left="10" Canvas.Top="341" Width="230"/>
+			<Label Content="系统时间" FontSize="20" HorizontalContentAlignment="Center" Background="#FF007BBB" Foreground="White" Height="34" Canvas.Left="25" Canvas.Top="446" Width="200"/>
+			<TextBox Name="CurrentTime_TextBox" FontSize="15" Height="25" Canvas.Left="10" IsEnabled="False" 
+					 VerticalContentAlignment="Center" HorizontalContentAlignment="Center"
+					 TextWrapping="Wrap" Canvas.Bottom="10" Width="230" Canvas.Top="485"/>
+
+		</Canvas>
+		<Image Grid.Row="0" Grid.Column="0" Source="/SupermarketMgmt;component/Resource/logo-big.png" Margin="10,0,0,0"/>
+
+
+	</Grid>
+
+</Window>

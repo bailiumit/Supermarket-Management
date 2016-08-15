@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LogicLib.Class01" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAACAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Class01.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class0101" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAgAAAAAAQAEAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Class0101.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class0102" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Class0102.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class0103" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Class0103.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class02" Collapsed="true">
+    <Position X="25.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAEAAAACAA=</HashCode>
+      <FileName>Class02.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class0201">
+    <Position X="16.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Class0201.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class0202">
+    <Position X="17.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Class0202.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class0203">
+    <Position X="19.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAEAAABAAA=</HashCode>
+      <FileName>Class0203.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class03" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAgCA=</HashCode>
+      <FileName>Class03.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class0301" Collapsed="true">
+    <Position X="14.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Class0301.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class0302" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAABAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Class0302.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class0303" Collapsed="true">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Class0303.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class04" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAgAAAgAAAAAAAAAAAAAAkAAAAAAA=</HashCode>
+      <FileName>Class04.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class0401" Collapsed="true">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Class0401.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class0402" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Class0402.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class0403" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Class0403.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Class0404" Collapsed="true">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Class0404.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Item" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgFQAAAAACQBQAAAAAgAAAECAEAAACAAAAEQAAgAUA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogicLib.Stuff">
+    <Position X="30" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAEAAAAIAgAAAAAHIAAAAAAE=</HashCode>
+      <FileName>Stuff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="LogicLib._Condition">
+    <Position X="35" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAQ=</HashCode>
+      <FileName>Condition.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LogicLib._Quarter">
+    <Position X="33.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAABAAgAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Quarter.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

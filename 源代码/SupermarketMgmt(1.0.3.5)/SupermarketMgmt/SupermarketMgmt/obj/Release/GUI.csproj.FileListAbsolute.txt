@@ -1,0 +1,854 @@
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.config
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.pdb
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.manifest
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.application
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.pdb
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.dll
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.pdb
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csprojResolveAssemblyReference.cache
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.baml
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\App.g.cs
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt_MarkupCompile.cache
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.g.resources
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.Properties.Resources.resources
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csproj.GenerateResource.Cache
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe.licenses
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe.manifest
+C:\Workshop\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.application
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.config
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.manifest
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.application
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.4.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\c1.wpf.c1chart.4.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DataGrid.4.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DateTimeEditors.4.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.4.xml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\c1.wpf.c1chart.4.xml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DataGrid.4.xml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DateTimeEditors.4.xml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\ar\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\cs\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\da\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\de\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\el\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\es\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\fi\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\fr\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\he\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\it\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\ja\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\nl\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\no\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\pl\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\pt\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\ro\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\ru\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\sk\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\sv\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\tr\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\zh\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hans\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hant\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\ar\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\cs\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\da\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\de\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\el\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\es\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\fi\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\fr\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\he\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\it\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\ja\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\nl\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\no\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\pl\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\pt\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\ro\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\ru\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\sk\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\sv\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\tr\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\zh\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hans\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hant\C1.WPF.DataGrid.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csprojResolveAssemblyReference.cache
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\LogIn.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\LogIn.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\App.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt_MarkupCompile.cache
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.g.resources
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.Properties.Resources.resources
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csproj.GenerateResource.Cache
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe.licenses
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe.manifest
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.application
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ChangePassword.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ChangePassword.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.config
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.pdb
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.manifest
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.application
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.pdb
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.pdb
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.4.xml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\c1.wpf.c1chart.4.xml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DataGrid.4.xml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DateTimeEditors.4.xml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ar\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\cs\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\da\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\de\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\el\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\es\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fi\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fr\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\he\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\it\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ja\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\nl\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\no\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pl\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pt\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ro\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ru\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sk\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sv\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\tr\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hans\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hant\C1.WPF.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ar\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\cs\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\da\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\de\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\el\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\es\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fi\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fr\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\he\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\it\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ja\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\nl\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\no\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pl\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pt\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ro\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ru\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sk\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sv\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\tr\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hans\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hant\C1.WPF.DataGrid.4.resources.dll
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csprojResolveAssemblyReference.cache
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ChangePassword.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\LogIn.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.baml
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ChangePassword.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\LogIn.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\App.g.cs
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt_MarkupCompile.cache
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.g.resources
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.Properties.Resources.resources
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csproj.GenerateResource.Cache
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe.licenses
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe.manifest
+C:\Workshop\SupermarketMgmt(0.5.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.application
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.config
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.pdb
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.manifest
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.application
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.pdb
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.4.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\c1.wpf.c1chart.4.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DataGrid.4.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DateTimeEditors.4.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.pdb
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.4.xml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\c1.wpf.c1chart.4.xml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DataGrid.4.xml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DateTimeEditors.4.xml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ar\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\cs\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\da\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\de\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\el\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\es\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fi\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fr\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\he\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\it\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ja\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\nl\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\no\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pl\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pt\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ro\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ru\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sk\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sv\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\tr\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hans\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hant\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ar\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\cs\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\da\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\de\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\el\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\es\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fi\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\he\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\it\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ja\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\nl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\no\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pt\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ro\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ru\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sk\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sv\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\tr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hans\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hant\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ChangePassword.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\LogIn.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ChangePassword.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\LogIn.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\App.g.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt_MarkupCompile.cache
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.g.resources
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.Properties.Resources.resources
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csproj.GenerateResource.Cache
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe.licenses
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe.manifest
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.application
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryBySingleItem.baml
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryBySingleItem.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.config
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.pdb
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.manifest
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.application
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.pdb
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.pdb
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.4.xml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\c1.wpf.c1chart.4.xml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DataGrid.4.xml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DateTimeEditors.4.xml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ar\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\cs\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\da\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\de\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\el\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\es\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fi\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fr\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\he\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\it\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ja\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\nl\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\no\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pl\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pt\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ro\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ru\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sk\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sv\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\tr\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hans\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hant\C1.WPF.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ar\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\cs\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\da\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\de\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\el\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\es\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fi\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\he\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\it\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ja\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\nl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\no\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pt\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ro\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ru\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sk\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sv\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\tr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hans\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hant\C1.WPF.DataGrid.4.resources.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csprojResolveAssemblyReference.cache
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryBySingleItem.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ChangePassword.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\LogIn.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.baml
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryBySingleItem.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ChangePassword.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\LogIn.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\App.g.cs
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt_MarkupCompile.cache
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.g.resources
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.Properties.Resources.resources
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csproj.GenerateResource.Cache
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe.licenses
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe.manifest
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.application
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.config
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.pdb
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.manifest
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.application
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.pdb
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.4.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\c1.wpf.c1chart.4.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DataGrid.4.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DateTimeEditors.4.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.pdb
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.4.xml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\c1.wpf.c1chart.4.xml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DataGrid.4.xml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.DateTimeEditors.4.xml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ar\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\cs\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\da\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\de\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\el\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\es\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fi\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fr\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\he\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\it\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ja\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\nl\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\no\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pl\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pt\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ro\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ru\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sk\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sv\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\tr\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hans\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hant\C1.WPF.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ar\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\cs\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\da\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\de\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\el\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\es\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fi\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\he\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\it\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ja\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\nl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\no\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pl\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pt\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ro\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ru\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sk\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sv\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\tr\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hans\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hant\C1.WPF.DataGrid.4.resources.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryBySingleItem.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ChangePassword.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\LogIn.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.baml
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryBySingleItem.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ChangePassword.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\LogIn.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\App.g.cs
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt_MarkupCompile.cache
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.g.resources
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.Properties.Resources.resources
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csproj.GenerateResource.Cache
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe.licenses
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe.manifest
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.application
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.config
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csprojResolveAssemblyReference.cache
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryBySingleItem.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ChangePassword.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\LogIn.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryBySingleItem.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ChangePassword.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\LogIn.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\App.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt_MarkupCompile.cache
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.g.resources
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.Properties.Resources.resources
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csproj.GenerateResource.Cache
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.manifest
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.application
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.4.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\c1.wpf.c1chart.4.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\itextsharp.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.4.xml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\c1.wpf.c1chart.4.xml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ar\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\cs\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\da\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\de\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\el\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\es\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fi\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fr\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\he\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\it\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ja\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\nl\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\no\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pl\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pt\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ro\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ru\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sk\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sv\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\tr\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hans\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hant\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe.manifest
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.application
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\Resource\Market.mdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt_Content.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.config
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe.manifest
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.application
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.exe
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\SupermarketMgmt.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.4.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\c1.wpf.c1chart.4.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\itextsharp.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\LogicLib.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\C1.WPF.4.xml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\c1.wpf.c1chart.4.xml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ar\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\cs\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\da\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\de\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\el\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\es\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fi\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\fr\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\he\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\it\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ja\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\nl\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\no\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pl\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\pt\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ro\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\ru\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sk\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\sv\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\tr\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hans\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\bin\Release\zh-Hant\C1.WPF.4.resources.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csprojResolveAssemblyReference.cache
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryBySingleItem.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ChangePassword.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\LogIn.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.baml
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryBySingleItem.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\StartupWelcome\StartupWelcome.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0101Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0102Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0103Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0201Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0202Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0203Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0301Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0302Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class0303Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SecondClassSettings\Class04Settings.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ChangePassword.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\ExitSureWindow.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\ItemManagement.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Operation\StuffManagement.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByAmount.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByImportTime.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Query\QueryByStoreOrGroundingTime.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItem.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticByItemClass.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\FunctionBlock\Statistic\StatisticBySeason.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\AboutWindow.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\LogIn.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\Window\MainWindow.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\App.g.cs
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt_MarkupCompile.cache
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.g.resources
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.Properties.Resources.resources
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\GUI.csproj.GenerateResource.Cache
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.exe.manifest
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\SupermarketMgmt\obj\Release\SupermarketMgmt.application

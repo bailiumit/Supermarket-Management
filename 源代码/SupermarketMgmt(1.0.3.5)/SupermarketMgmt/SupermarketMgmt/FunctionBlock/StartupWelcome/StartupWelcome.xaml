@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="GUI.FunctionBlock.StartupWelcome.StartupWelcome"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="550" d:DesignWidth="730">
+	<Grid Background="#FFF3F3F3">
+		<Label Content="欢迎使用" FontSize="36" Height="56" 
+			   HorizontalAlignment="Center" VerticalAlignment="Center"
+			   Margin="0,198,0,296"/>
+		<Label Content="Market Management 超市管理系统" FontSize="25" Height="43"
+			   HorizontalAlignment="Center" VerticalAlignment="Center"
+			   Margin="0,0,0,0"/>
+	</Grid>
+</UserControl>

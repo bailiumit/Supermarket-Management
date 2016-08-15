@@ -1,0 +1,23 @@
+﻿<Window Name="ExitSure" x:Class="GUI.Window.ExitSureWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="超市管理系统 - 确定退出" Height="200" Width="300" BorderThickness="0" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition/>
+			<RowDefinition Height="42"/>
+		</Grid.RowDefinitions>
+
+		<Canvas Grid.Row="0" 
+                HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,0,0,0" Height="0" Width="0"/>
+
+		<Canvas Margin="0,0,0,0" Grid.Row="1">
+            <Button Name="Yes_Exit_Button" Content="是" FontSize="20" Height="35" Width="65" Background="#FFEA5534" Foreground="#FFFFFF" Canvas.Right="90" Click="Yes_Exit_Button_Click" BorderBrush="#FFFFECEC"/>
+            <Button Name="No_Exit_Button" Content="否" FontSize="20" Height="35" Width="65" Background="#FF007BBB" Foreground="#FFFFFF" Canvas.Right="20" Click="No_Exit_Button_Click" BorderBrush="#FFFFF2F2"/>
+		</Canvas>
+		<Image Margin="10,22,219,33" Source="/SupermarketMgmt;component/Resource/logo-small.png"/>
+		<Label Content="确定退出吗？" FontSize="24" Margin="75,35,48,43"/>
+
+	</Grid>
+</Window>

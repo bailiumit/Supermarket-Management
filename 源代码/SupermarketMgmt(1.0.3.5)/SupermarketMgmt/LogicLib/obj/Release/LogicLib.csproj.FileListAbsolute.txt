@@ -1,0 +1,29 @@
+C:\Workshop\SupermarketMgmt\LogicLib\bin\Release\LogicLib.dll
+C:\Workshop\SupermarketMgmt\LogicLib\bin\Release\LogicLib.pdb
+C:\Workshop\SupermarketMgmt\LogicLib\obj\Release\LogicLib.csprojResolveAssemblyReference.cache
+C:\Workshop\SupermarketMgmt\LogicLib\obj\Release\LogicLib.dll
+C:\Workshop\SupermarketMgmt\LogicLib\obj\Release\LogicLib.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\LogicLib\bin\Release\LogicLib.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\LogicLib\bin\Release\LogicLib.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\LogicLib\obj\Release\LogicLib.csprojResolveAssemblyReference.cache
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\LogicLib\obj\Release\LogicLib.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\LogicLib\obj\Release\LogicLib.pdb
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\LogicLib\bin\Release\LogicLib.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\LogicLib\bin\Release\LogicLib.pdb
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\LogicLib\obj\Release\LogicLib.csprojResolveAssemblyReference.cache
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\LogicLib\obj\Release\LogicLib.dll
+C:\Users\liubai\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\LogicLib\obj\Release\LogicLib.pdb
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\LogicLib\bin\Release\LogicLib.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\LogicLib\bin\Release\LogicLib.pdb
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\LogicLib\obj\Release\LogicLib.csprojResolveAssemblyReference.cache
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\LogicLib\obj\Release\LogicLib.dll
+C:\Users\Alexander ZHANG\Desktop\1.0.2.23\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\LogicLib\obj\Release\LogicLib.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\LogicLib\bin\Release\LogicLib.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\LogicLib\bin\Release\LogicLib.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\LogicLib\obj\Release\LogicLib.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.2.0)\SupermarketMgmt\LogicLib\obj\Release\LogicLib.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\LogicLib\bin\Release\LogicLib.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\LogicLib\bin\Release\LogicLib.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\LogicLib\obj\Release\LogicLib.csprojResolveAssemblyReference.cache
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\LogicLib\obj\Release\LogicLib.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt(1.0.3.0)\SupermarketMgmt\LogicLib\obj\Release\LogicLib.pdb

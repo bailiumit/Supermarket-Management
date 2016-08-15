@@ -1,0 +1,9 @@
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt\LogicLib\bin\Debug\LogicLib.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt\LogicLib\bin\Debug\LogicLib.pdb
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt\LogicLib\obj\Debug\LogicLib.csprojResolveAssemblyReference.cache
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt\LogicLib\obj\Debug\LogicLib.dll
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt\LogicLib\obj\Debug\LogicLib.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\LogicLib\bin\Debug\LogicLib.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\LogicLib\bin\Debug\LogicLib.pdb
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\LogicLib\obj\Debug\LogicLib.dll
+D:\‘14 Summer\C++程序设计\大作业\SupermarketMgmt\LogicLib\obj\Debug\LogicLib.pdb

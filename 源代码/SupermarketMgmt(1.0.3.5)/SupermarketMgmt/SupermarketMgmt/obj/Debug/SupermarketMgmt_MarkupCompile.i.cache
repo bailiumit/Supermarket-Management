@@ -1,0 +1,20 @@
+﻿SupermarketMgmt
+
+
+winexe
+C#
+.cs
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\obj\Debug\
+GUI
+none
+false
+DEBUG;TRACE
+C:\Users\Alexander ZHANG\Desktop\SupermarketMgmt(1.0.0.0)\SupermarketMgmt\SupermarketMgmt\App.xaml
+241633333847
+
+36161583381
+23796789494
+FunctionBlock\StartupWelcome\StartupWelcome.xaml;SecondClassSettings\Class0101Settings.xaml;SecondClassSettings\Class0102Settings.xaml;SecondClassSettings\Class0103Settings.xaml;SecondClassSettings\Class0201Settings.xaml;SecondClassSettings\Class0202Settings.xaml;SecondClassSettings\Class0203Settings.xaml;SecondClassSettings\Class0301Settings.xaml;SecondClassSettings\Class0302Settings.xaml;SecondClassSettings\Class0303Settings.xaml;SecondClassSettings\Class04Settings.xaml;Window\ChangePassword.xaml;Window\ExitSureWindow.xaml;FunctionBlock\Operation\ItemManagement.xaml;FunctionBlock\Operation\StuffManagement.xaml;FunctionBlock\Query\QueryByAmount.xaml;FunctionBlock\Query\QueryByImportTime.xaml;FunctionBlock\Query\QueryByStoreOrGroundingTime.xaml;FunctionBlock\Statistic\StatisticByItem.xaml;FunctionBlock\Statistic\StatisticByItemClass.xaml;FunctionBlock\Statistic\StatisticBySeason.xaml;Window\AboutWindow.xaml;Window\LogIn.xaml;Window\MainWindow.xaml;
+
+False
+
